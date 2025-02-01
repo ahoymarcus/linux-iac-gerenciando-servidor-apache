@@ -3,7 +3,7 @@ Olá, este é o meu repositório para o segundo projeto Linux Infraestrutura com
 
 Definições do Projeto Servidor Web Apache:
 
-![Definições do Projeto](/images/definições-do-projeto-Apache-Server_Infrastructure-as-Code_Linux-Experience.png)
+![Definições do Projeto](/public/definições-do-projeto-Apache-Server-Infrastructure-as-Code-Linux-Experience.png)
 
 
 ## Outros links:
